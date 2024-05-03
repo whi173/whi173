@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @whi173 and i'm new in gitHub
+- 👋 Hi, I’m @whi173 just a 16yo student and i'm new in gitHub
 - 👀 I’m interested in the IT industry, i'd loke to be a full-stack developer. I LOVE CODING.
 - 🌱 I’m currently learning JS Python, PHP e MYsql.
 - 💞️ I’m looking to collaborate on some projcts where i can learn something new and make some experience
