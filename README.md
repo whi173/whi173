@@ -5,9 +5,4 @@
 - ⚡ Fun fact: there are so many projects that i'd like to do, but i don't know where to start... even if i already started hahah
 - competences... C / C++ [intermediate]  HTML & CSS [intermediate] JS [beginner] learning
 - ⚡fun fuct i put intermediate because i don't have real experience in companies it's not that i lack knowledge
-- 📫 Telegram: @white_nd Instagram @wh_17e Gmail: white.mainW@gmail.com
-
-<!---
-whi173/whi173 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📫 Telegram: @wh173_LYLZ
